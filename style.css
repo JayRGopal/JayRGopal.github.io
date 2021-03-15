@@ -5,6 +5,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+img {
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+<img src="jaygopal.jpg" alt="Paris">
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #000;
