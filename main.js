@@ -1,8 +1,8 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["I'm Jay Gopal.", "I'm a Senior at North Broward Preparatory School.", "I program in Python, Java, Swift, and HTML.", "I think AI will transform the world."];
-const typingDelay = 100;
+const textArray = ["I'm Jay Gopal.", "I'm a student at Brown University.", "I program in Python, Java, Javascript, Swift, and HTML.", "I think AI will transform the world."];
+const typingDelay = 80;
 const erasingDelay = 50;
 const newTextDelay = 500; // Delay between current and next text
 let textArrayIndex = 0;
